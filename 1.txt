@@ -1,5 +1,5 @@
 for(int i = 0; i < 5; i++)
 {
-	cout << "victory!" <<
-	lets go
-
+	cout << "victory!" << endl;
+	cout << "pishu 3 raza victory kak eblan";
+}
