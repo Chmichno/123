@@ -1,4 +1,4 @@
-NIKITA GENY
-a ok
-misha tozje
+for(int i = 0; i < 5; i++)
+{
+	cout << "victory!" <<
 
