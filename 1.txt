@@ -1,5 +1,6 @@
 for(int i = 0; i < 5; i++)
 {
 	cout << "victory!" << endl;
+	//PRIV
 	cout << "pishu 3 raza victory kak eblan";
 }
