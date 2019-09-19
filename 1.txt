@@ -1,14 +1,5 @@
 for(int i = 0; i < 5; i++)
 dsadasd
 {
-asdasdasd
-	cout << "victory!" << endl;
-	//PRIV
-	cout << "pishu 3 raza victory kak eblan";
+cot < "alo" « end:
 }
-
-dasdasdasd
-
-prif ti chmo
-dfsjkgfsdhiugasuignasd
-
